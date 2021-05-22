@@ -1,0 +1,36 @@
+body
+{
+	background: #999;
+	font-family:  arial;
+}
+
+h2
+{
+	color:  white;
+}
+
+nav ul, li
+{
+	color:  white;
+	list-style-type:  none;
+}
+
+nav p, a
+{
+	color: white;
+}
+
+div 
+{
+	color: white;
+}
+
+.center 
+{
+	margin: auto;
+ 	width: 50%;
+ 	height: 50%;
+ 	border: none;
+ 	padding:  10px;
+ 	text-align:  center;
+}
